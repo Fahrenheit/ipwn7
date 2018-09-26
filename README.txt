@@ -32,8 +32,9 @@ Open terminal;
 Type: cd <path to ipwn7 folder>; (MUST BE ON YOUR DESKTOP!)
 Type: ./ipwn7.sh -h
 From there select your option;
-./ipwn7.sh -r (Installs everything needed and prepares device for restore
-./ipwn7.sh -j (Just boot the device to make it turn on
+./ipwn7.sh -r (Installs everything needed and prepares device for restore)
+./ipwn7.sh -p (Just prepares device for restore - only use if requirements where installed before.)
+./ipwn7.sh -j (Just boot the device to make it turn on)
 ./ipwn7.sh -c (To see the credits)
 
 To start run: ./ipwn7.sh -r (then follow what it says)
